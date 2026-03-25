@@ -111,7 +111,7 @@ CILACAP_CENTER = [-7.72, 109.00]
 # ═══════════════════════════════════════════════════════════════
 CORS   = "https://corsproxy.io/?"
 URL_R  = "https://raw.githubusercontent.com/artoflife/dataset/refs/heads/main/routes%20(1).csv"
-URL_C  = "https://raw.githubusercontent.com/artoflife/dataset/refs/heads/main/Salinan%20dari%20raw_data%20-%20Sheet1.csv"
+URL_C  = "https://raw.githubusercontent.com/artoflife/dataset/refs/heads/main/Salinan%20dari%20raw_data%20-%20Sheet1%20(1).csv"
 
 @st.cache_data(show_spinner=False)
 def load_raw_data():
